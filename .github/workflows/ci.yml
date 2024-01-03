@@ -31,4 +31,4 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: remark-link-report
-          path: remark-ink-report.json
+          path: remark-link-report.json
